@@ -26,10 +26,10 @@ Aquí puedes ver algunos de los proyectos que he creado o en los que he colabora
 
 Puedes encontrarme en las siguientes redes sociales:
 
-[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://instagram.com/franjulianjaca)
-[<img align="left" alt="LinkedIn" width="22px" src="^3^" />](https://www.linkedin.com/in/fran-julian)
-[<img align="left" alt="Email" width="22px" src="^4^" />](mailto:franjjr@gmail.com)
-![image](https://github.com/Franjjr/Franjjr/assets/138630369/6bc2e4a1-cf7d-4086-8cd9-feb7189cbe90)
+![image]({	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white})
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
 
 
 <br />

@@ -26,7 +26,7 @@ Aquí puedes ver algunos de los proyectos que he creado o en los que he colabora
 
 Puedes encontrarme en las siguientes redes sociales:
 
-![image]({	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white})
+![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![image]({BadgeURLHere})
 ![image]({BadgeURLHere})
 ![image]({BadgeURLHere})

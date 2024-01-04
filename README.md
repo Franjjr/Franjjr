@@ -26,7 +26,7 @@ Aquí puedes ver algunos de los proyectos que he creado o en los que he colabora
 
 Puedes encontrarme en las siguientes redes sociales:
 
-<a href="https://www.instagram.com/franjulianjaca"<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/franjulianjaca"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 ![image]({BadgeURLHere})
 ![image]({BadgeURLHere})
 ![image]({BadgeURLHere})

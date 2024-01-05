@@ -34,4 +34,3 @@ Puedes encontrarme en las siguientes redes sociales:
 
 <br />
 
-Gracias por visitar mi perfil. Espero que te haya gustado. 😊

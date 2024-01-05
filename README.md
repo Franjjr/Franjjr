@@ -1,5 +1,7 @@
 # Hola, soy Fran Julian 👋
 
+![banerGiyHub](https://github.com/Franjjr/Franjjr/assets/138630369/0843f2df-4f5a-4fb4-8267-e152e73bd742)
+
 Soy un estudiante de desarrollo web fullstack con conocimientos básicos de HTML, CSS, JavaScript, Node.js, React, MongoDB y otros. Me interesa crear aplicaciones web que aporten valor y solucionen problemas reales. También me gusta aprender nuevas tecnologías y compartir mis conocimientos con la comunidad.
 
 ## Mis habilidades downloading.. (but this does not go as fast as in Matrix)  🚀

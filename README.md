@@ -18,8 +18,8 @@ Soy un estudiante de desarrollo web fullstack con conocimientos básicos de HTML
 
 Aquí puedes ver algunos de los proyectos que he creado o en los que he colaborado. Puedes ver más en mi [perfil de GitHub](https://github.com/Franjjr).
 
-- [Nombre del proyecto](https://github.com/tu_nombre_de_usuario/nombre_del_proyecto): Una breve descripción del proyecto, sus características, tecnologías utilizadas y enlace a la demostración o al sitio web.
-- [Nombre del proyecto](https://github.com/tu_nombre_de_usuario/nombre_del_proyecto): Una breve descripción del proyecto, sus características, tecnologías utilizadas y enlace a la demostración o al sitio web.
+- [wopr.es](https://github.com/tu_nombre_de_usuario/nombre_del_proyecto): shhhhhhh aun es un secreto....
+- [devian.es](https://github.com/tu_nombre_de_usuario/nombre_del_proyecto): no insitas que no puedo sontar ni una palabra...
 - [Nombre del proyecto](https://github.com/tu_nombre_de_usuario/nombre_del_proyecto): Una breve descripción del proyecto, sus características, tecnologías utilizadas y enlace a la demostración o al sitio web.
 
 ## Contáctame 📫

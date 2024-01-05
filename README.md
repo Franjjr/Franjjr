@@ -4,7 +4,7 @@ Soy un estudiante de desarrollo web fullstack con conocimientos básicos de HTML
 
 ## Mis habilidades 🚀
 
-- Front-end: HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Redux, Next.js, Astro
+- Front-end: <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>, CSS, Bootstrap, Tailwind, JavaScript, React, Redux, Next.js, Astro
 - Back-end: Node.js, Express, MongoDB, Firebase, mySQL, RESTful API
 - Otras: Git, GitHub, VS Code, npm, Heroku, Netlify, Markdown
 

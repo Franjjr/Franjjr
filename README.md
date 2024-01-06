@@ -24,7 +24,7 @@ Aquí puedes ver algunos de los proyectos que he creado o en los que he colabora
 - [devian.es](https://github.com/tu_nombre_de_usuario/nombre_del_proyecto): no insitas que no puedo soltar ni una palabra...
 - [Nombre del proyecto](https://github.com/tu_nombre_de_usuario/nombre_del_proyecto): Una breve descripción del proyecto, sus características, tecnologías utilizadas y enlace a la demostración o al sitio web.
 
-## Contáctame 📫
+## Contáctame 📫 franjjr@gmail.com
 
 Puedes encontrarme en las siguientes redes sociales:
 
